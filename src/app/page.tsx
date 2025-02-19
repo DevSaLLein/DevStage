@@ -1,8 +1,8 @@
 import { ArrowRight, Copy, Mail } from "lucide-react";
 
 import { Button } from "@/components/button";
-import { IconButton } from './../components/icon-button';
 import { InputIcon, InputRoot } from "@/components/input";
+import { IconButton } from './../components/icon-button';
 import { InputField } from './../components/input';
 
 export default function Home() {
